@@ -252,6 +252,11 @@ main {
 }
 .icon--social {
     cursor: pointer;
+    fill: #584D62;
+}
+
+.icon--social:hover {
+    fill: var(--dark-purple);
 }
 
 /* Extra small devices (phones, 600px and down) */
